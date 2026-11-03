@@ -14,5 +14,6 @@ public class Main {
 
         LocalDateTime data = c.dataHoraHoje();
         System.out.println(data);
+        System.out.println("Funcionando");
     }
 }
